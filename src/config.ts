@@ -32,7 +32,7 @@ const accountsToScrape = ACCOUNTS_TO_SCRAPE.split(",")
   .map((a) => a.trim());
 
 export { TELEGRAM_API_KEY, TELEGRAM_CHAT_ID, GOOGLE_SHEET_ID };
-export const systemName = "moneyman";
+export const systemName = "caspion";
 export const currentDate = format(Date.now(), "yyyy-MM-dd");
 export const scrapeStartDate = subDays(Date.now(), Number(daysBackToScrape));
 
