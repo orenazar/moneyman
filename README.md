@@ -1,6 +1,6 @@
 # moneyman
 
-Automatically add transactions from all major Israeli banks and credit card companies to a online worksheet
+new Automatically add transactions from all major Israeli banks and credit card companies to a online worksheet
 
 Internally we use [israeli-bank-scrapers](https://github.com/eshaham/israeli-bank-scrapers) to scrape the data.
 
